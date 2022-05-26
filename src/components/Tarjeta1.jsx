@@ -11,7 +11,7 @@ function Tarjeta1() {
         <img src={logo} alt="logo" />
         </div>
       <div className='span'>
-      <span>TURS IDA Y VUELTA</span>
+      <span>TOURS IDA Y VUELTA</span>
       </div>
       <div className='barras'>
       <img src={barras} alt="barras" />
